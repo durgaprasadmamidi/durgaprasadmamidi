@@ -2,10 +2,8 @@
 
 
 
-- 🔭 I’m currently working on App Development and Compitative Programing
-- 🌱 I’m currently learning App Development with JAVA
+- 🔭 I’m currently working on Compitative Programing
 - 👨‍💻 Personal website: [Website - Durga Prasad Mamidi](https://durgaprasadmamidi.github.io/Website/index.html)
-- 💬 Ask me about Python, Java and App Development
 - 📫 How to reach me: [Linked In - @durgaprasadmamidi](https://www.linkedin.com/in/durgaprasadmamidi), [Discord - prasadMamidi's server](https://discord.gg/PWjwUZ)
    
 
