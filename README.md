@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Compitative Programing
+- 🔭 I’m currently pursuing master in Software Engineering @San Jose State University.
 - 👨‍💻 Personal website: [Website - Durga Prasad Mamidi](https://durgaprasadmamidi.github.io/Website/index.html)
 - 📫 How to reach me: [Linked In - @durgaprasadmamidi](https://www.linkedin.com/in/durgaprasadmamidi), 
    
