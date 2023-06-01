@@ -10,13 +10,13 @@
    
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prasad_mamidi?theme=dark&font=Kodchasan&ext=activity)
 
-<img src="https://github-readme-stats.vercel.app/api?username=durgaprasadmamidi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=durgaprasadmamidi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
--->
+--> -->
 
 
 
